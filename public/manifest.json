@@ -1,0 +1,26 @@
+{
+  "name" : "BuffettMaker PWA",
+  "short_name" : "App" ,
+  "start_url" : "." ,
+  "background-color" : "blue" ,
+  "theme_color" : "#007546" ,
+  "display" : "standalone" ,
+  "icons" : [
+    {
+        "src" : "image_only_64x64.png",
+        "sizes" : "64x64" ,
+        "type" : "image/png"
+    } ,
+
+    {
+      "src" : "image_only_1_512x512.png",
+      "sizes" : "512x512" ,
+      "type" : "image/png"
+
+    }
+  
+
+  ]
+
+
+}

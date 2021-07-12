@@ -1,0 +1,89 @@
+body {
+	font-family: 'Poppins', sans-serif;
+}
+
+.r-topnav {
+	width: 100%;
+	height: 65px;
+	background-color: #4d4d4d;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+	display: grid;
+	grid-template-columns: 70% 30%;
+}
+
+.r-top-left {
+	color: #fff;
+	padding-left: 50px;
+	font-size: 22px;
+	padding-top: 18px;
+}
+
+.r-top-right {
+	padding-left: 65%;
+}
+
+.r-tr-logout {
+	margin-top: 18px;
+	width: 100px;
+	height: 30px;
+	background-color: #fff;
+	border: none;
+	border-radius: 5px;
+}
+
+.r-startup-hdn {
+	padding-left: 50px;
+}
+
+.r-sth-p {
+	font-size: 18px;
+	margin-top: 25px;
+}
+
+.r-sth-wrx {
+	font-size: 18px;
+	width: 300px;
+	display: grid;
+	grid-template-columns: 30% 70%;
+}
+
+.r-sth-start {
+
+}
+
+.r-line {
+	margin-top: 20px;
+	width: 100%;
+	height: 1px;
+	background-color: #aaa;
+}
+
+.r-wrx {
+	font-size: 18px;
+	padding-left: 100px;
+	padding-top: 0px;
+}
+
+.r-p {
+	margin-top: 30px;
+}
+
+.r-inpx {
+	margin-top: 20px;	
+}
+
+.r-inp-wrx {
+	padding-left: 25px;
+}
+
+.r-submit {
+	margin-top: 20px;
+	font-size: 17px;
+	width: 150px;
+	height: 30px;
+	color: #fff;
+	background-color: #0d6efd;
+	border: none;
+	border-radius: 5px;	
+	margin-bottom: 25px;	
+}
